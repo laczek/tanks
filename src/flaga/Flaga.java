@@ -10,7 +10,7 @@ package flaga;
  */
 
 
-///hehehehedsfdsfdsf
+//lubię naleśniki
 public class Flaga {
     
     private static  int[] sortuj(int[] tab)
